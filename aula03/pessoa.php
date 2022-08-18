@@ -1,6 +1,6 @@
 <?php
 
-    class Pessoa{
+    class Pessoaw{
 
         var $Codigo;
         var $nome;
